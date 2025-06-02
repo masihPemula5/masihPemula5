@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: **JavaScript**, **Python**, and **Machine Learning**
 - 💬 Ask me about: `HTML`, `CSS`, `Git`, `Responsive Design`
 - 🤝 I’m looking to collaborate on: **open-source web or AI projects**
-- 📫 How to reach me: [Email me](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourusername)
+- 📫 How to reach me: [Email me](mailto:irawanrendy55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rendi-irawan-93190732b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🧠 Fun fact: I love automating repetitive tasks with simple code 💻⚡
 
 ---
@@ -47,6 +47,6 @@
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/rendi-irawan"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:irawanrendy55@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
 </p>
