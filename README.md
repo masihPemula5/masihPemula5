@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rendi</h1>
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/masihPemula5/masihPemula5/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0bnN0Ympqc2N0dG9zZzN3d2ZmM3p3Nmd0cDZtdmNnMmZqbmFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxK/giphy.gif" alt="Pixel Retro Game" width="400"/>
+</p>
 
 
 <p align="center">
