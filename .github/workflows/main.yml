@@ -1,20 +1,38 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
+  # Jalankan setiap hari pada pukul 00:00 UTC (sekitar jam 7 pagi WIB)
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
+    - cron: "0 0 * * *"
+  # Memungkinkan kamu menjalankan workflow ini secara manual dari tab Actions
   workflow_dispatch:
+  # Bisa juga ditambahkan trigger lain jika diinginkan, misalnya saat push ke branch main
+  # push:
+  #   branches:
+  #     - main # atau nama branch utama kamu
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Langkah 1: Checkout repositori kamu agar workflow bisa mengaksesnya
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+
+      # Langkah 2: Jalankan aksi Platane/snk untuk menghasilkan file SVG animasi ular
+      - name: Generate Snake animation
+        uses: Platane/snk@v3 # Kamu bisa menggunakan @v2 atau versi terbaru lainnya jika ada
         with:
+          # Username GitHub kamu (secara otomatis akan mengambil username pemilik repositori)
           github_user_name: ${{ github.repository_owner }}
+
+          # Daftar file output yang akan dihasilkan.
+          # File pertama akan menjadi animasi standar, file kedua bisa untuk mode gelap.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Kamu juga bisa menambahkan output untuk animasi 3D jika mau:
+            # dist/github-contribution-grid-snake-3d.svg?palette=github-dark
+
         env:
+          # Token GitHub diperlukan untuk mengakses data kontribusi
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
