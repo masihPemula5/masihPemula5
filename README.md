@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rendi</h1>
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="400" />
-</p>
+[![LuciNyan's Pixel GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=USERNAME&theme=journey)](https://github.com/LuciNyan/pixel-profile)
 
 
 
