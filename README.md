@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rendi</h1>
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJ0bnN0Ympqc2N0dG9zZzN3d2ZmM3p3Nmd0cDZtdmNnMmZqbmFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxK/giphy.gif" alt="Pixel Retro Game" width="400"/>
-</p>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/masihPemula5/masihPemula5/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+Web+%26+AI+technologies;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
