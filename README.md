@@ -2,6 +2,11 @@
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+Web+%26+AI+technologies;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
