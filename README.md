@@ -2,8 +2,9 @@
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
 </p>
+
 
 
 <p align="center">
