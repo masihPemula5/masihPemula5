@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rendi</h1>
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
+### 🐍 GitHub Snake Contribution
+
+![snake gif](https://github.com/rendydev404/rendydev404/blob/output/github-snake.svg)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+Web+%26+AI+technologies;Open+to+Collaboration+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
