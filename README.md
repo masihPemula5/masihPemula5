@@ -8,45 +8,50 @@
 ---
 
 ### 🔍 About Me
-- 🌱 I’m currently learning: **JavaScript**, **Python**, and **Machine Learning**
-- 💬 Ask me about: `HTML`, `CSS`, `Git`, `Responsive Design`
-- 🤝 I’m looking to collaborate on: **open-source web or AI projects**
-- 📫 How to reach me: [Email me](mailto:irawanrendy55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rendi-irawan-93190732b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🧠 Fun fact: I love automating repetitive tasks with simple code 💻⚡
+- 🚀 I’m currently learning: **JavaScript**, **Python**, **Machine Learning**
+- 💡 I’m interested in: **Web Development**, **AI**, and **Open Source**
+- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Next.js`
+- 🤝 I’m open to collaborate on: **open-source web or AI projects**
+- 📫 Reach me: [Email](mailto:irawanrendy55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rendi-irawan-93190732b)
+- ⚡ Fun fact: I love automating repetitive tasks with simple code!
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,next,laravel,express,kotlin,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python,laravel,node,wordpress,express,git,github,vscode,figma,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masihPemula5&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masihPemula5&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rendydev404&show_icons=true&theme=tokyonight&hide_border=true" alt="Rendi's GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendydev404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 🎯 Quote of the Day
+### ✨ Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
 
 ---
 
 ### 🎮 Fun Projects
-- 🎁 [gif-for-you](https://github.com/masihPemula5/gif-for-you)
-- 🌐 [Personal Website](https://github.com/masihPemula5/website)
-- 🧪 [rendy111](https://github.com/masihPemula5/rendy111)
+- 🎵 [Spotify Clone](https://github.com/rendydev404/spotify-clone) — *Next.js 15 + Spotify API + YouTube Data API*
+- 🎁 [GIF for You](https://github.com/rendydev404/gif-for-you)
+- 🌐 [Personal Website](https://github.com/rendydev404/anime-finder)
 
 ---
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/rendi-irawan-93190732b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:irawanrendy55@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/rendi-irawan-93190732b">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:irawanrendy55@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge" />
+  </a>
 </p>
