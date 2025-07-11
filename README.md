@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rendi</h1>
 <h3 align="center">🌱 Passionate & Curious Developer | Always Learning</h3>
 
-### 🐍 GitHub Snake Contribution
 
-![snake gif](https://github.com/rendydev404/rendydev404/blob/output/github-snake.svg)
+![snake gif](https://github.com/rendydev404/rendydev404/blob/output/github-snake.svg
 
 
 <p align="center">
