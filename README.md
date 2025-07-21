@@ -43,8 +43,8 @@
 
 ### 🎮 Fun Projects
 - 🎵 [Spotify Clone](https://github.com/rendydev404/spotify-clone) — *Next.js 15 + Spotify API + YouTube Data API*
-- 🎁 [GIF for You](https://github.com/rendydev404/gif-for-you)
-- 🌐 [Personal Website](https://github.com/rendydev404/anime-finder)
+- 🌌 [Anime Finder](https://github.com/rendydev404/gif-for-you)
+- 🤖 [My AI Clone Project](https://github.com/rendydev404/AIREN-AI)
 
 ---
 
